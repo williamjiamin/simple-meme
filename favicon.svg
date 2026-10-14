@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Simple Meme Maker">
+  <!-- The mark from the Organic direction: a rounded card, a terracotta
+       field, and the two caption bars every classic meme has. -->
+  <rect width="512" height="512" rx="96" fill="#2e2b25"/>
+  <rect x="40" y="40" width="432" height="432" rx="56" fill="#c67139"/>
+  <rect x="88" y="96" width="336" height="54" rx="27" fill="#f5ead8"/>
+  <rect x="88" y="362" width="336" height="54" rx="27" fill="#f5ead8"/>
+</svg>
