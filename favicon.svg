@@ -1,8 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Simple Meme Maker">
-  <!-- The mark from the Organic direction: a rounded card, a terracotta
-       field, and the two caption bars every classic meme has. -->
-  <rect width="512" height="512" rx="96" fill="#2e2b25"/>
-  <rect x="40" y="40" width="432" height="432" rx="56" fill="#c67139"/>
-  <rect x="88" y="96" width="336" height="54" rx="27" fill="#f5ead8"/>
-  <rect x="88" y="362" width="336" height="54" rx="27" fill="#f5ead8"/>
+  <!-- The mark: the app's maker, hand-drawn, laughing — his glasses,
+       moustache and goatee, his hair swept up — under the caption bar every
+       classic meme has, on the terracotta field. scripts/make-icons.py
+       renders every icon from this file. -->
+  <rect width="512" height="512" rx="112" fill="#c67139"/>
+  <rect x="112" y="40" width="288" height="50" rx="25" fill="#f5ead8"/>
+  <ellipse cx="112" cy="318" rx="26" ry="38" fill="#f5ead8"/>
+  <ellipse cx="400" cy="318" rx="26" ry="38" fill="#f5ead8"/>
+  <ellipse cx="256" cy="304" rx="146" ry="150" fill="#f5ead8"/>
+  <path d="M110 284 C 96 186 160 116 254 112 C 336 108 404 150 410 238 C 384 206 344 192 304 196 C 262 156 190 168 158 214 C 138 240 120 262 110 284 Z" fill="#2e2b25"/>
+  <rect x="140" y="262" width="102" height="70" rx="20" fill="none" stroke="#2e2b25" stroke-width="15"/>
+  <rect x="270" y="262" width="102" height="70" rx="20" fill="none" stroke="#2e2b25" stroke-width="15"/>
+  <path d="M242 290 Q256 280 270 290" stroke="#2e2b25" stroke-width="13" fill="none"/>
+  <path d="M164 308 Q191 284 218 308" stroke="#2e2b25" stroke-width="13" fill="none" stroke-linecap="round"/>
+  <path d="M294 308 Q321 284 348 308" stroke="#2e2b25" stroke-width="13" fill="none" stroke-linecap="round"/>
+  <path d="M190 378 L322 378 Q318 452 256 456 Q194 452 190 378 Z" fill="#2e2b25"/>
+  <path d="M218 432 Q256 408 294 432 Q280 452 256 454 Q232 452 218 432 Z" fill="#8c491a"/>
+  <path d="M176 374 Q214 344 256 362 Q298 344 336 374 Q298 368 256 380 Q214 368 176 374 Z" fill="#2e2b25"/>
+  <path d="M230 454 Q256 492 282 454 Z" fill="#2e2b25"/>
 </svg>
